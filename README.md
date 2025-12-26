@@ -1,4 +1,4 @@
-#RAG System - Policy Q&A Assistant
+# RAG System - Policy Q&A Assistant
 
 A Retrieval-Augmented Generation (RAG) system that answers policy questions using Google Gemini API. The system loads policy documents, creates embeddings, performs semantic retrieval, and generates grounded answers with minimal hallucination.
 
